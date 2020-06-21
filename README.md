@@ -1,1 +1,1 @@
-# R
+# R basics overview
